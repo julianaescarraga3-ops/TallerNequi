@@ -1,6 +1,6 @@
 //TALLER NEQUI . PARTE 1//
 
-//Declarar movimientos 
+//Parte 1. Declarar movimientos 
 let movimientos = [50000, -20000, 70000, -10000, 5000, -30000];
 let total = 0;
 let cantidadRetiros = 0;

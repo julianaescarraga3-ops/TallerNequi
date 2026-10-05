@@ -1,6 +1,6 @@
 const prompt = require('prompt-sync')();
 
-//Parte 2
+//Parte 2. VALIDAR EL PIN
 
 let pinCorrecto = "1234";
 let intento = prompt("Escribe tu PIN");
